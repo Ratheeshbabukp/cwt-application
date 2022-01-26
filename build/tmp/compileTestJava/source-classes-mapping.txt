@@ -1,0 +1,2 @@
+com/example/multimodule/application/DemoApplicationTest.java
+ com.example.multimodule.application.DemoApplicationTest
